@@ -1,0 +1,16 @@
+{
+  "name": "doc",
+  "version": "3.0.0",
+  "description": "v3 doc",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./node_modules/docsify-cli/bin/docsify serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrRabbit",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.0.0"
+  }
+}

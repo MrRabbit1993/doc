@@ -12,3 +12,4 @@
   * [够用3.0 h5](gouuse_h5/quick.md)
   * [SCRM](scrm/quick.md)
   * [企业微信 h5](qiyeweixin/quick.md)
+  * [萧山驾驶舱](xs_driving/quick.md)

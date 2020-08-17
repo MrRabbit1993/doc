@@ -15,6 +15,12 @@
 
 构成容器的单元
 
+> 指标
+
+组件内的某一单项  
+指标对应数据可以从数据中台表中获取 [数据中台](https://docs.qq.com/sheet/DT2pkdE9EdXVXZU1D?tab=ffvxj6)
+
+
 
 
 

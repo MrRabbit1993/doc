@@ -1,5 +1,6 @@
 - [环境准备](xs_driving/quick.md)
 - [项目结构](xs_driving/directory.md)
 - [名称简介](xs_driving/namedescribe.md)
+- [系统设计](xs_driving/design.md)
 - [开发流程](xs_driving/dev.md)
 - [改进](xs_driving/problem.md)
